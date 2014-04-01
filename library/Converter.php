@@ -6,8 +6,11 @@
 require_once "APIMediaIO.php";
 
 /**
+ * Converter
+ * This simple-class allow work with APIMediaIO
+ * 
  * @author Владимир
- *
+ * @version 0.1.0.0-preview
  */
 class Converter {
 	
